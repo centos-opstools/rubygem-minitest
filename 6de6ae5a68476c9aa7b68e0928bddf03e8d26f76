@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "9aa7fdbe_e04fcc90",
+        "filename": "rubygem-minitest.spec",
+        "patchSetId": 1
+      },
+      "lineNbr": 15,
+      "author": {
+        "id": 313
+      },
+      "writtenOn": "2017-07-12T07:48:03Z",
+      "side": 1,
+      "message": "\"Provides: rubygem(%{gem_name}) \u003d %{version}\" is missing.",
+      "revId": "6de6ae5a68476c9aa7b68e0928bddf03e8d26f76",
+      "serverId": "270e2033-b340-4cff-9539-693957ebf0e7",
+      "unresolved": false
+    }
+  ]
+}
