@@ -3,7 +3,7 @@
 
 Name: rubygem-%{gem_name}
 Version: 5.8.5
-Release: 2%{?dist}
+Release: 3%{?dist}
 Summary: minitest provides a complete suite of testing facilities
 Group: Development/Languages
 License: MIT
@@ -93,6 +93,9 @@ popd
 %{gem_instdir}/design_rationale.rb
 
 %changelog
+* Mon Mar 19 2018 Matthias Runge <mrunge@redhat.com> - 5.8.5-3
+- bump NVR to enable additional arches
+
 * Tue Jun 27 2017 Matthias Runge <mrunge@redhat.com> - 5.8.5-2
 - import into centos-opstools
 
